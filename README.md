@@ -1,5 +1,5 @@
 # px2rpx-gulp
-[![NPM version][npm-image]][npm-url]
+gulp for px2rpx
 ## Usage
 ```
 yarn install
