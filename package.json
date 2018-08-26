@@ -1,0 +1,21 @@
+{
+  "name": "px2rpx-gulp",
+  "version": "1.0.0",
+  "description": "px2rpx gulp ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "px2rpx",
+    "gulp"
+  ],
+  "author": "cheuk",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^8.0.0",
+    "mocha": "^5.2.0",
+    "px2rpx": "^0.5.3"
+  }
+}
