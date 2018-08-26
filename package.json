@@ -12,10 +12,12 @@
   ],
   "author": "cheuk",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.1",
     "mocha": "^5.2.0",
+    "node-sass": "^4.9.3",
     "px2rpx": "^0.5.3"
   }
 }
